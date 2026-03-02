@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Tayade
 
-<!--
-**Yashtayade0/Yashtayade0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 AI & Web Development Enthusiast  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Working on: Multimodal Deepfake Detection
+- 🌐 Building: Web Applications
+- 📚 Learning: Machine Learning & System Design
+- 💡 Interested in: AI, Full Stack Development
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,flask,nodejs,mysql,mongodb,git,github" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 **Multimodal Deepfake Detection with Biometric Consistency**
+- 🔹 **IntelliHire Engine**
+
+---
+
+## 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashtayade0&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yashtayade0&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/yashtayade
+- Email: yashtayade09.official@gmail.com
+
+
