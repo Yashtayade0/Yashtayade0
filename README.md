@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on: Multimodal Deepfake Detection
-- 🌐 Building: Web Applications
-- 📚 Learning: Machine Learning & System Design
-- 💡 Interested in: AI, Full Stack Development
+- 🔭 Working on: Multimodal Deepfake Detection  
+- 🌐 Building: Web Applications  
+- 📚 Learning: Machine Learning & System Design  
+- 💡 Interested in: AI, Full Stack Development  
 
 ---
 
@@ -30,9 +30,11 @@
 
 ---
 
-## 🧠 LeetCode Contribution Graph
+## 🧠 LeetCode Stats
 
-![LeetCode Heatmap](https://leetcode-activity-graph.vercel.app/graph?username=yashtayade09&theme=react-dark)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yashtayade09?theme=dark&font=Karma&ext=heatmap" />
+</p>
 
 ---
 
