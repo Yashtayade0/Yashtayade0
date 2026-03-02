@@ -44,11 +44,10 @@ I focus on clean code, strong fundamentals, and continuous learning.
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yashtayade09?theme=dark&font=Karma&ext=heatmap" />
-</p>
 
----
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yashtayade09?theme=nord&ext=heatmap" />
+</p>
 
 ## 📫 Connect With Me
 
