@@ -1,17 +1,29 @@
 # Hi 👋, I'm Yash Tayade
 
-🎓 Computer Engineering Student  
-💻 AI & Web Development Enthusiast  
-📍 India  
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashtayade">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Yashtayade0">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:yashtayade09.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Working on: Multimodal Deepfake Detection  
-- 🌐 Building: Web Applications  
-- 📚 Learning: Machine Learning & System Design  
-- 💡 Interested in: AI, Full Stack Development  
+I'm Yash — a Computer Engineering student passionate about building intelligent systems and scalable web applications.  
+I focus on clean code, strong fundamentals, and continuous learning.
+
+- 🎓 B.Tech in Computer Engineering  
+- 🏫 Vishwakarma Institute of Information Technology  
+- 🌱 Currently Learning: Machine Learning & System Design  
+- 📧 Email: yashtayade09.official@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yashtayade  
 
 ---
 
