@@ -30,9 +30,9 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Contribution Graph
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yashtayade09?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Heatmap](https://leetcode-activity-graph.vercel.app/graph?username=yashtayade09&theme=react-dark)
 
 ---
 
