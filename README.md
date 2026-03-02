@@ -30,21 +30,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 LeetCode Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashtayade0&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yashtayade0&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yashtayade09?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/yashtayade
+- LinkedIn: https://www.linkedin.com/in/yashtayade  
 - Email: yashtayade09.official@gmail.com
-
-
