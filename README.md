@@ -37,6 +37,12 @@ $ cat yash.json
 
 ## 🎯 Current Focus
 
+🔭 Building → AI-powered full-stack apps with offline LLMs  
+🌱 Learning → Advanced LangGraph agents + Cloud Architecture  
+👯 Open to → Collabs on AI / Security / Full-Stack projects  
+💬 Ask me → LangChain, Next.js, Pentesting, RAG pipelines  
+⚡ Fun fact → I've broken more systems than I've built (ethically 😄)
+
 ---
 
 ## ⚡ Tech Arsenal
