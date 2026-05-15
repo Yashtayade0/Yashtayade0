@@ -22,7 +22,7 @@ $ cat yash.json
 {
   "name"         : "Yash Tayade",
   "degree"       : "B.Tech CSE — Final Year (2023–2027)",
-  "college"      : "VIIT, Pune 🎓 | CGPA: 8.22",
+  "college"      : "VIIT, Pune 🎓 | CGPA: 8.43",
   "location"     : "Pune, Maharashtra 🇮🇳",
   "focus"        : ["AI Agents", "Full-Stack", "Pentesting"],
   "llm_stack"    : ["Ollama", "LangChain", "LangGraph", "RAG"],
