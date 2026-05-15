@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=🚀+Building+AI+agents+that+actually+think...;🔐+Breaking+into+systems+(ethically+ofc);🌐+Shipping+full-stack+apps+at+3am;🧠+Final+Year+CS+%40+VIIT+Pune;💼+Open+to+Internships+%26+Full-Time+Roles!)](https://git.io/typing-svg)
 
-<!-- Open to Work Badge -->
 ![Open To Work](https://img.shields.io/badge/🟢%20Open%20To-Internships%20%26%20Full--Time-brightgreen?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Yashtayade0&style=for-the-badge&color=00C8FF&label=PROFILE+VIEWS)
 
@@ -12,36 +11,68 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 ### 👾 `whoami`
+
+<table>
+<tr>
+<td valign="middle" width="55%">
 
 ```bash
 $ cat yash.json
 {
   "name"         : "Yash Tayade",
-  "degree"       : "B.Tech CSE — Final Year",
-  "college"      : "VIIT, Pune 🎓",
-  "location"     : "Nagpur, Maharashtra 🇮🇳",
+  "degree"       : "B.Tech CSE — Final Year (2023–2027)",
+  "college"      : "VIIT, Pune 🎓 | CGPA: 8.22",
+  "location"     : "Pune, Maharashtra 🇮🇳",
   "focus"        : ["AI Agents", "Full-Stack", "Pentesting"],
   "llm_stack"    : ["Ollama", "LangChain", "LangGraph", "RAG"],
-  "status"       : "🟢 Available for Internships & Roles",
-  "fun_fact"     : "I debug at 2am and it somehow works 😅",
+  "status"       : "🟢 Open to Internships & Full-Time Roles",
+  "copyright"    : "📜 Registered Copyright Holder — Eventastic (Govt. of India)",
+  "fun_fact"     : "I debug at 2am and it somehow always works 😅",
   "contact"      : "yashtayade09.official@gmail.com"
 }
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Current Focus
 
-🔭 Building → AI-powered full-stack apps with offline LLMs  
-🌱 Learning → Advanced LangGraph agents + Cloud Architecture  
-👯 Open to → Collabs on AI / Security / Full-Stack projects  
-💬 Ask me → LangChain, Next.js, Pentesting, RAG pipelines  
-⚡ Fun fact → I've broken more systems than I've built (ethically 😄)
+<table>
+  <tr>
+    <td>🔭 <strong>Building</strong></td>
+    <td>Offline AI agents for code review using RAG + LangGraph</td>
+  </tr>
+  <tr>
+    <td>🌱 <strong>Learning</strong></td>
+    <td>Advanced LangGraph workflows + AWS Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td>🧬 <strong>Research</strong></td>
+    <td>Multimodal deepfake detection with biometric consistency</td>
+  </tr>
+  <tr>
+    <td>👯 <strong>Open to</strong></td>
+    <td>Collabs on AI / Full-Stack / Cybersecurity projects</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Ask me</strong></td>
+    <td>LangChain, Next.js, Pentesting, FAISS, RAG pipelines</td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Fun fact</strong></td>
+    <td>I've shipped AI agents, detected deepfakes & broken systems (ethically 😄)</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -95,10 +126,9 @@ $ cat yash.json
 | 🚀 Project | 💡 What it does | 🛠️ Stack | ⭐ |
 |---|---|---|---|
 | [**💸 ExpenseIQ**](https://github.com/Yashtayade0/ExpenseIQ) | Smart expense tracker with AI-driven financial insights | JavaScript, Next.js | ![Stars](https://img.shields.io/github/stars/Yashtayade0/ExpenseIQ?style=flat-square&color=yellow) |
-| [**🧬 Deepfake Detector**](https://github.com/Yashtayade0/Multimodal-Deepfake-Detection-with-Biometric-Consistency) | Cross-modal biometric consistency deepfake detection | Python, AI/ML | ![Stars](https://img.shields.io/github/stars/Yashtayade0/Multimodal-Deepfake-Detection-with-Biometric-Consistency?style=flat-square&color=yellow) |
-| [**💼 IntelliHire Engine**](https://github.com/Yashtayade0/IntelliHire-Engine) | AI hiring assistant — screens, ranks & recommends candidates | JavaScript, Node.js | ![Stars](https://img.shields.io/github/stars/Yashtayade0/IntelliHire-Engine?style=flat-square&color=yellow) |
+| [**🧬 Deepfake Detector**](https://github.com/Yashtayade0/Multimodal-Deepfake-Detection-with-Biometric-Consistency) | Cross-modal biometric consistency deepfake detection — 87–92% accuracy | Python, OpenCV, TensorFlow | ![Stars](https://img.shields.io/github/stars/Yashtayade0/Multimodal-Deepfake-Detection-with-Biometric-Consistency?style=flat-square&color=yellow) |
+| [**💼 IntelliHire Engine**](https://github.com/Yashtayade0/IntelliHire-Engine) | AI hiring assistant — screens, ranks & recommends candidates | Python, NLP, FAISS, RAG | ![Stars](https://img.shields.io/github/stars/Yashtayade0/IntelliHire-Engine?style=flat-square&color=yellow) |
 | [**🤖 Code Review Assistant**](https://github.com/Yashtayade0) | Offline AI agent for deep code review using RAG + local LLMs | Python, LangChain, Ollama | — |
-| [**🕵️ Pentesting Agent**](https://github.com/Yashtayade0) | LLM-guided autonomous pentesting agent for vuln detection | Python, LangGraph, Kali | — |
 
 </div>
 
@@ -108,10 +138,10 @@ $ cat yash.json
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashtayade0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashtayade0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashtayade0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashtayade0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com/?user=Yashtayade0&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashtayade0&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -153,11 +183,27 @@ $ cat yash.json
 
 ## 📜 Certifications
 
+<div align="center">
+
 | 🏅 Certificate | 🏢 Issuer | 📅 Year |
 |---|---|---|
-| AWS Academy Cloud Foundations | Amazon Web Services | 2024 |
-| Cybersecurity Essentials | Add yours here | — |
-| Add more... | — | — |
+| AWS Academy Cloud Foundations | Amazon Web Services | 2026 |
+| Google Data Analytics | Coursera | 2025 |
+| Data Analytics for Lean Six Sigma | Coursera | 2025 |
+| CCNA: Introduction to Networks | Cisco | 2025 |
+| 🏛️ Registered Copyright – **Eventastic** (Cert. No. LD-20250169685) | Govt. of India | 2025 |
+
+</div>
+
+---
+
+## 🎖️ Achievements & Experience
+
+- 🏆 **Smart India Hackathon (SIH)** — Nominated for advanced stages @ VIIT *(Aug–Nov 2025)*
+- 👥 **Batch Representative** — Led coordination for 60+ students @ VIIT *(July 2024 – Present)*
+- 📡 **Organized GMRT Educational Trip** — Giant Metrewave Radio Telescope, Narayangaon *(2023)*
+- 🩸 **NSS Blood Donation Camp Volunteer** *(2024)*
+- 📜 **Registered Copyright Holder** — Eventastic, Govt. of India *(Cert. No. LD-20250169685)*
 
 ---
 
