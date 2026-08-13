@@ -138,8 +138,8 @@ $ cat yash.json
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashtayade0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashtayade0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Yashtayade0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Yashtayade0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com/?user=Yashtayade0&theme=tokyonight&hide_border=true&background=0D1117" />
 
@@ -161,7 +161,7 @@ $ cat yash.json
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yashtayade0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Yashtayade0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
